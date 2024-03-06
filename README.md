@@ -17,6 +17,7 @@ List of all possible angles (joystick is not just a circle, it(s a disc with len
 button
   launch sequence from savestate
   select slot
+  making a slot tree for parallel universe superplays
   save to slot
     slot number
     actual frame
@@ -43,7 +44,8 @@ ideas :
      you can calculate the angle between 'you' and the 'position you are aiming, and the 'angle between 1st you' and '2nd you'
      the difference between 'the firt angle' and 'second angle' is your 'accuracy' aiming the 'right angle'
     tell program to suggest an angle based on previous informations and display the accuracy
-      doing a game of plus minus : reduce angle if difference is negative, increase angle id angle positif
+      doing a game of plus minus : reduce angle if difference is negative, increase angle id angle positif, i, until finding the limit
+      entering value is the tas gird
     
      
       
