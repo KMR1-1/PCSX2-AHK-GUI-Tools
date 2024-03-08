@@ -74,7 +74,8 @@ Create an interface to easly TAS PS2 Games
        * for instance leftStickX has a sensibility so you'll have a minimum possible value turning left for example
        * the only way turning left os to rotate the camera
        * this can be useful for long distance
+       * even with a good angle accuracy the further you go, the further you get out of line
     
-     
+  + also a repo from Tales98 that automates the joyinput for sonic gamecube in lua
       
   
